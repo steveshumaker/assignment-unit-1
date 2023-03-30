@@ -1,7 +1,7 @@
 ////Random console log stuff
-// let greeting = 'Hello, world!'
+let greeting = 'Hello, world!'
 
-// console.log(greeting);
+console.log(greeting);
 
 // let hadDinner = false;
 
